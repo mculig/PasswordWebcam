@@ -4,4 +4,4 @@ A simple Windows Forms app that monitors the Security log for failed logins. A p
 
 [Latest release](https://github.com/mculig/PasswordWebcam/releases/download/v1/WebcamPassword.v1.zip)
 
-The app **requires** .NET 4.5.2 or newer to run.
+The app **requires** .NET 4.5.2 or newer to run, tested on Win 10 only. Sorry :)
